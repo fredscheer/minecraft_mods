@@ -1,0 +1,10 @@
+// Items
+item.ruby.name=Ruby
+
+// Blocks
+tile.ruby_block.name=Block of Ruby
+tile.emerald_block2.name=Block of Emerald
+tile.emerald_block3.name=Block of Emerald 3
+tile.diamond_block2.name=Block of Diamond 2
+tile.diamond_block3.name=Block of Diamond 3
+tile.emerald_block4.name=Block of Emerald 4

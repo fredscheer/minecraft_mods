@@ -1,0 +1,22 @@
+package com.kaiblok.testmod.items.tools;
+
+import com.kaiblok.testmod.util.IHasModel;
+
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemSword;
+
+public class ToolSword extends ItemSword implements IHasModel {
+
+
+	public ToolSword(ToolMaterial material) {
+		super(material);
+		
+	}
+
+	@Override
+	public void registerModel() {
+		
+		
+	}
+
+}

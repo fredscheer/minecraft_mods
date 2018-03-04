@@ -1,0 +1,19 @@
+package com.kaiblok.testmod.blocks;
+
+import net.minecraft.block.material.Material;
+
+
+
+public class Diamond2Block extends BlockBase 
+{
+	public static final String mName = "diamond2_block";
+	public static final Material mMaterial = Material.IRON;
+
+	public Diamond2Block() 
+	{
+		super(mName, mMaterial);
+		setLightLevel(1.0F);
+		setLightOpacity(7);
+	}
+
+}
